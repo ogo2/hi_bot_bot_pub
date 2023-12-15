@@ -1,0 +1,2 @@
+BOT_TOKEN = ''
+PSQL_URL = ''
